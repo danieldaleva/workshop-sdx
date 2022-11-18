@@ -1,0 +1,19 @@
+{
+  "name": "workshop-sdx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldaleva/workshop-sdx.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieldaleva/workshop-sdx/issues"
+  },
+  "homepage": "https://github.com/danieldaleva/workshop-sdx#readme"
+}
